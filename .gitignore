@@ -1,0 +1,7 @@
+node_modules/
+dist/
+game/.friendsdk/
+test-artifacts/
+.sites-runtime/
+.env*
+build/
